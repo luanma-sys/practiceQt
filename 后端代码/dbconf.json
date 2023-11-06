@@ -1,0 +1,11 @@
+{
+	"ip":"localhost",
+	"port":3306,
+	"userName":"root",
+	"password":"123456",
+	"dbName":"studentsdb",
+	"minSize":20,
+	"maxSize":200,
+	"maxIdleTime":5000,
+	"timeout":1000
+}
